@@ -107,3 +107,35 @@
     <td>학생 대상 이루모아 시연 및 인터뷰</td>
   </tr>
 </table>
+
+## ⚒️ 기술 스택
+<table>
+  <tr>
+    <th>구분</th>
+    <th>사용 기술</th>
+  </tr>
+  <tr>
+    <td>언어</td>
+    <td>TypeScript</td>
+  </tr>
+  <tr>
+    <td>UI</td>
+    <td>React</td>
+  </tr>
+  <tr>
+    <td>라우팅</td>
+    <td>Next.js App Routing</td>
+  </tr>
+  <tr>
+    <td>스타일링</td>
+    <td>Emotion CSS</td>
+  </tr>
+  <tr>
+    <td>서버 상태 관리</td>
+    <td>React Query</td>
+  </tr>
+  <tr>
+    <td>패키지 관리 매니저</td>
+    <td>pnpm</td>
+  </tr>
+</table>
