@@ -116,11 +116,11 @@
   </tr>
   <tr>
     <td>언어</td>
-    <td>TypeScript</td>
+    <td>TypeScript, Java17</td>
   </tr>
   <tr>
-    <td>UI</td>
-    <td>React</td>
+    <td>프레임워크</td>
+    <td>React, Spring</td>
   </tr>
   <tr>
     <td>라우팅</td>
@@ -137,5 +137,13 @@
   <tr>
     <td>패키지 관리 매니저</td>
     <td>pnpm</td>
+  </tr>
+  <tr>
+    <td>데이터베이스</td>
+    <td>MySQL, JPA/Hibernate</td>
+  </tr>
+  <tr>
+    <td>인프라</td>
+    <td>AWS EC2, Docker, Ngnix</td>
   </tr>
 </table>
