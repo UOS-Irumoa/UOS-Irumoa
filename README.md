@@ -24,7 +24,7 @@
     <td>BE 김동현</td>
     <td>BE 김동환</td>
     <td>BE 손수빈</td>
-    <td>FE 손희영</td>
+    <td>FE 송희영</td>
     <td>FE 이채우</td>
   </tr>
 </table>
